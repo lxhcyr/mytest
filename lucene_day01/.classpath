@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-smartcn-4.10.3.jar" sourcepath="D:/第二阶段/课件/day99_lucene&amp;solr_day01/01.参考资料/lucene-4.10.3/analysis/smartcn/lucene-analyzers-smartcn-4.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer2012FF_u1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
